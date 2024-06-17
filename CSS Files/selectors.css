@@ -1,0 +1,21 @@
+/**{
+    font-family: cursive;
+}*/
+body{
+    font-size: 20px;
+}
+/* p:hover{
+    font-family: monospace;
+} */
+#first, #second{
+    color: aqua !important;
+}
+.purple{
+    color: blueviolet;
+    font-family: monospace;
+}
+.highlight{
+    background-color: beige;
+    font-weight: bold;
+    font-style: italic;
+}

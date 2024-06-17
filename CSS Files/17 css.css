@@ -1,0 +1,12 @@
+main{
+    border: 5px solid burlywood;
+    border-radius: 10px;
+    border-color: aqua;
+    color: blue;
+    width: 50vw;
+}
+section{
+    border: 5px dashed green;
+    width: 50vw;
+    height: 50vh;
+}
