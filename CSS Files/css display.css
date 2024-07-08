@@ -1,0 +1,41 @@
+*{
+    /* border: 1px solid red ; */
+     padding: 0%;
+    margin: 0%;
+}
+body{
+    font-family: cursive;
+}
+
+p{
+    width: 50px;
+    /* Cannot be a change size of element ,This is a BLock element  */
+    /* can be change using display of an element  */
+    /* display: inline; */
+    display: inline-block;
+    width: 20px;
+    height: auto;
+
+}
+
+img{
+    width: 150px;
+    /* can be change a size of an element , This is a inline element */
+}
+ul{
+    /* list-style: square ; */
+    text-align: end;
+    padding: 30px;
+    background-color: black;
+    color: white;
+}
+
+li{
+    display: inline-block;
+    padding: 20px;
+}
+
+li:hover{
+    color: violet;
+    cursor: pointer;
+}
